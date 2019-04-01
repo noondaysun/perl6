@@ -1,7 +1,7 @@
 #! /usr/bin/env perl6
 
+use haveIBeenPwnedChecker;
 use Test;
-use hibpChecker;
 
 # plan 1;
 
